@@ -1,4 +1,4 @@
-# red-belt-client
+# Front-end do teste para empresa RedBelt: CRUD em React js
 
 Dependências:
 ```
